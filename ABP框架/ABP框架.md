@@ -1,5 +1,7 @@
 ## ABP框架
 
+- 学习博客：https://www.cnblogs.com/mienreal/p/4528470.html
+
 - ABP是一个**开源**且文档友好的**应用程序框架**
 - 提供了一个基于**领域驱动设计(DDD)**的结构模型
 
