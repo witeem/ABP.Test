@@ -16,7 +16,7 @@
 
    EntityFrameCore层找到DbContextConfigurer文件：
 
-   > UserSqlServer()  改成  UserMySql();
+   > UserSqlServer()  改成  UseMySql();
 
 4. #### 修改数据库链接字符串
 
